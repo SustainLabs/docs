@@ -8,7 +8,7 @@ Totally committed to a Smart gPlanet (Green Planet)
 
 :green\_circle:Slabs lives within a decentralized ecosystem on the APTOS blockchain on first instance.
 
-:green\_circle:We are a fully Decentralized Multidisciplinary Team with a high commitment into sustainability issues globally.
+:green\_circle:We are a fully Decentralized Multidisciplinary Team(DMT) with a high commitment into sustainability issues globally.
 
 
 
