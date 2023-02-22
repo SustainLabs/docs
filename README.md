@@ -10,9 +10,9 @@ Here are a couple of example overviews from products with really great docs:
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 
-[https://ourworldindata.org/grapher/historic-and-un-pop-projections-by-age?time=earliest..2050](https://ourworldindata.org/grapher/historic-and-un-pop-projections-by-age?time=earliest..2050)
+{% embed url="https://ourworldindata.org/grapher/historic-and-un-pop-projections-by-age?time=earliest..2050" %}
 
-[#overview](./#overview "mention")[https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement\_Eng.pdf](https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement\_Eng.pdf)
+{% embed url="https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement_Eng.pdf" %}
 
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
 >
