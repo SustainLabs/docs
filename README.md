@@ -1,12 +1,14 @@
 # 👋 Welcome
 
+
+
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
+:bulb:Did you know ? Every day that passes, someone is left without the opportunity to study, someone pollutes our planet again, someone dies from not having clean water or from hunger, children who out of necessity and others out of obligation end up working and NOT playing, as it should be.
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 
