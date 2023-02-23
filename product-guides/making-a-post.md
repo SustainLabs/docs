@@ -1,4 +1,4 @@
-# 📪 Making a post
+# Lending
 
 ## Step 1 - Start journalling
 

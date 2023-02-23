@@ -26,9 +26,7 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 
 <figure><img src=".gitbook/assets/historic-and-un-pop-projections-by-age.png" alt=""><figcaption><p>Source Link: <a href="https://ourworldindata.org/grapher/population-by-broad-age-group">https://ourworldindata.org/grapher/population-by-broad-age-group</a></p></figcaption></figure>
 
-{% embed url="https://sustainlabs.s3.amazonaws.com/intro_slabs.mp4" %}
-At Sustain Labs we believe that we can contribute greatly to solving sustainable problems, thanks to our commitment, technologies and because it is something that involves all of us globally and generationally.
-{% endembed %}
+<figure><img src=".gitbook/assets/vecteezy_people-surrounded-a-green-globe-planet-earth-cooperation_13445641_582.jpg" alt=""><figcaption><p>It is everyone's commitment</p></figcaption></figure>
 
 {% hint style="warning" %}
 #### World Poverty 1990
