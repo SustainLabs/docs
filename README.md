@@ -3,24 +3,16 @@
 ## Overview
 
 {% hint style="info" %}
-Did you know ? Every day that passes, someone is left without the opportunity to study, someone pollutes our planet again, someone dies from not having clean water or from hunger, children who out of necessity and others out of obligation end up working and NOT playing or going to school, as it should be.
+Did you know ? Every day that passes, someone is left without the opportunity to study, someone pollutes our planet again, someone dies from not having clean water or from hunger, children who out of necessity and others out of obligation end up working and NOT playing, as it should be.
 {% endhint %}
 
 > ## Let's see some graphs
-
-* #### &#x20;Plastics production worldwide
-
-<figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/GreatPacificGarbagePatch.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
+>
+> #### :thinking:Plastics production worldwide
 
 
 
-<figure><img src=".gitbook/assets/GreatPacificGarbagePatch.jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
 
 {% embed url="https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement_Eng.pdf" %}
 
