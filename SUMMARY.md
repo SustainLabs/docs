@@ -31,7 +31,7 @@
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 * [Fees](tokenomics/fees.md)
 
-## Use Cases
+## Ambassador Program
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🎨 For Designers](ambassador-program/for-designers.md)
+* [🖥 For Developers](ambassador-program/for-developers.md)
