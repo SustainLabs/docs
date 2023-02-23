@@ -29,7 +29,7 @@
 * [🛠 STN Coin](fundamentals/getting-set-up/README.md)
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-* [NFTs Cases Boosting](tokenomics/nfts-cases-boosting.md)
+* [Fees](tokenomics/fees.md)
 
 ## Use Cases
 
