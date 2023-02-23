@@ -17,9 +17,10 @@
 
 * [Supply Chain](products/supply-chain.md)
 * [Crowdfunding](products/crowdfunding.md)
-* [SustainSwap](products/sustainswap.md)
-* [📪 Lending](product-guides/making-a-post.md)
 * [📎 NFT Marketplace](product-guides/understanding-projects.md)
+* [DeFi](products/defi/README.md)
+  * [SustainSwap](products/defi/sustainswap.md)
+  * [📪 Lending](products/defi/lending.md)
 
 ## Tokenomics
 
