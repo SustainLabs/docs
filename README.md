@@ -3,20 +3,28 @@
 ## Overview
 
 {% hint style="info" %}
-Did you know ? Every day that passes, someone is left without the opportunity to study, someone pollutes our planet again, someone dies from not having clean water or from hunger, children who out of necessity and others out of obligation end up working and NOT playing, as it should be.
+Did you know ? Every day that passes, someone is left without the opportunity to study, someone pollutes our planet again, someone dies from not having clean water or from hunger, children who out of necessity and others out of obligation end up working and NOT playing or going to school, as it should be.
 {% endhint %}
 
 > ## Let's see some graphs
->
-> #### :thinking:Plastics production worldwide
 
-
+* #### &#x20;Plastics production worldwide
 
 <figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/GreatPacificGarbagePatch.jpg" alt=""><figcaption><p>plastic islands</p></figcaption></figure>
+
+*   #### &#x20;World population projected towards 2050
 
 
-{% embed url="https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement_Eng.pdf" %}
+
+    <figure><img src=".gitbook/assets/population-by-broad-age-group.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/population-by-broad-age-group">https://ourworldindata.org/grapher/population-by-broad-age-group</a></p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/vecteezy_children-find-junk-for-sale-and-recycle-them-in-landfills_11903596_605.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
 >
