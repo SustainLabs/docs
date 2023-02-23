@@ -17,8 +17,8 @@
 * [Supply Chain](products/supply-chain.md)
 * [Crowdfunding](products/crowdfunding.md)
 * [SustainSwap](products/sustainswap.md)
-* [📪 Making a post](products/making-a-post.md)
-* [📎 Understanding Projects](products/understanding-projects.md)
+* [📪 Lending](products/lending.md)
+* [📎 NFT Marketplace](products/nft-marketplace.md)
 
 ## Fundamentals
 
