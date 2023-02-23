@@ -12,10 +12,13 @@
 * [Aptos Development](aptos-development/README.md)
   * [Contracts](aptos-development/contracts.md)
 
-## Product Guides
+## Products
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [Supply Chain](products/supply-chain.md)
+* [Crowdfunding](products/crowdfunding.md)
+* [SustainSwap](products/sustainswap.md)
+* [📪 Making a post](products/making-a-post.md)
+* [📎 Understanding Projects](products/understanding-projects.md)
 
 ## Fundamentals
 
