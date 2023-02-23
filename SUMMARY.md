@@ -7,6 +7,11 @@
 * [🌱 What is SLabs ?](introduction/what-is-slabs.md)
 * [🌳 Our Purpose](introduction/our-purpose.md)
 
+***
+
+* [Aptos Development](aptos-development/README.md)
+  * [Page 2](aptos-development/page-2.md)
+
 ## Product Guides
 
 * [📪 Making a post](product-guides/making-a-post.md)
