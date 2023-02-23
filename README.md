@@ -41,7 +41,7 @@ At Sustain Labs we believe that we can contribute greatly to solving sustainable
 
 <figure><img src=".gitbook/assets/share-living-with-less-than-550-int--per-day.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/share-living-with-less-than-550-int--per-day?time=1990">https://ourworldindata.org/grapher/share-living-with-less-than-550-int--per-day?time=1990</a></p></figcaption></figure>
 
-### :motorway: We have a long way to go !!
+### :motorway: We have a long way to go and if it is with you, even better !!!
 
 ## Quick links
 
