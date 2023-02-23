@@ -1,18 +1,16 @@
 # 👋 Welcome
 
-
-
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
 ## Overview
 
-:bulb:Did you know ? Every day that passes, someone is left without the opportunity to study, someone pollutes our planet again, someone dies from not having clean water or from hunger, children who out of necessity and others out of obligation end up working and NOT playing, as it should be.
+{% hint style="info" %}
+Did you know ? Every day that passes, someone is left without the opportunity to study, someone pollutes our planet again, someone dies from not having clean water or from hunger, children who out of necessity and others out of obligation end up working and NOT playing, as it should be.
+{% endhint %}
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> ## Let's see some graphs
+>
+> #### :thinking:Plastics production worldwide
 
-{% embed url="https://ourworldindata.org/grapher/historic-and-un-pop-projections-by-age?time=earliest..2050" %}
+![](.gitbook/assets/cumulative-global-plastics.png)[https://ourworldindata.org/grapher/cumulative-global-plastics](https://ourworldindata.org/grapher/cumulative-global-plastics)
 
 {% embed url="https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement_Eng.pdf" %}
 
