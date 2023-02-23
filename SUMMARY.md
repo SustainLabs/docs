@@ -22,9 +22,9 @@
 
 ## Tokenomics
 
-* [🛠 Getting set up](tokenomics/getting-set-up/README.md)
-  * [📝 Setting permissions](tokenomics/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](tokenomics/getting-set-up/inviting-members.md)
+* [🛠 STN Coin](tokenomics/stn-coin/README.md)
+  * [📝 Setting permissions](tokenomics/stn-coin/setting-permissions.md)
+  * [🧑 Inviting Members](tokenomics/stn-coin/inviting-members.md)
 
 ## Use Cases
 
