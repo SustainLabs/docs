@@ -1,4 +1,4 @@
-# 🛠 STN Coin
+# 🪙 STN Coin
 
 <details>
 

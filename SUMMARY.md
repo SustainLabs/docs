@@ -15,10 +15,10 @@
 
 ## Products
 
-* [Supply Chain](products/supply-chain.md)
+* [🚛 Supply Chain](products/supply-chain.md)
 * [Crowdfunding](products/crowdfunding.md)
-* [📎 NFT Marketplace](product-guides/understanding-projects.md)
-* [DeFi](products/defi/README.md)
+* [🛒 NFT Marketplace](product-guides/understanding-projects.md)
+* [💸 DeFi](products/defi/README.md)
   * [SustainSwap](products/defi/sustainswap.md)
   * [Savings](products/defi/savings.md)
   * [📪 Lending](product-guides/making-a-post.md)
@@ -26,12 +26,12 @@
 
 ## Tokenomics
 
-* [🛠 STN Coin](fundamentals/getting-set-up/README.md)
+* [🪙 STN Coin](fundamentals/getting-set-up/README.md)
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-* [Fees](tokenomics/fees.md)
+* [👨🏫 Fees](tokenomics/fees.md)
 
 ## Ambassador Program
 
-* [🎨 For Designers](ambassador-program/for-designers.md)
-* [🖥 For Developers](ambassador-program/for-developers.md)
+* [🎨 For Designers](use-cases/for-designers.md)
+* [🖥 For Developers](use-cases/for-developers.md)

@@ -1,4 +1,4 @@
-# 📎 NFT Marketplace
+# 🛒 NFT Marketplace
 
 ## How Projects work
 
