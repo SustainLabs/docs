@@ -10,6 +10,8 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 
 {% hint style="danger" %}
 #### &#x20;Plastics production worldwide
+
+* On the one hand we are changing the use of fossil fuels to renewable energies, sunlight, hydrogen and electricity, but on the other hand the amount of carbon-based waste that we generate unbalances the balance again and as we increase in population we continue to generate carbon waste. exponentially even more.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
@@ -18,6 +20,8 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 
 {% hint style="info" %}
 #### World population projected towards 2050
+
+* Our resources will not give enough for the next generations according to the current rate of growth of the world's population.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/historic-and-un-pop-projections-by-age.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/population-by-broad-age-group">https://ourworldindata.org/grapher/population-by-broad-age-group</a></p></figcaption></figure>
