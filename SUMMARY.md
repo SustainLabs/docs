@@ -21,7 +21,7 @@
 * [💸 DeFi](products/defi/README.md)
   * [SustainSwap](products/defi/sustainswap.md)
   * [Savings](products/defi/savings.md)
-  * [📪 Lending](product-guides/making-a-post.md)
+  * [Lending](product-guides/making-a-post.md)
   * [Liquidity Pools](products/defi/liquidity-pools.md)
 
 ## Tokenomics
