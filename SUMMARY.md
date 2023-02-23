@@ -27,8 +27,8 @@
 ## Tokenomics
 
 * [🪙 STN Coin](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+  * [📝 Governance](tokenomics/stn-coin/governance.md)
+  * [🧑 Supply](tokenomics/stn-coin/supply.md)
 * [👨🏫 Fees](tokenomics/fees.md)
 
 ## Ambassador Program
