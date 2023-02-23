@@ -41,13 +41,7 @@ At Sustain Labs we believe that we can contribute greatly to solving sustainable
 
 <figure><img src=".gitbook/assets/share-living-with-less-than-550-int--per-day.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/share-living-with-less-than-550-int--per-day?time=1990">https://ourworldindata.org/grapher/share-living-with-less-than-550-int--per-day?time=1990</a></p></figcaption></figure>
 
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+### :motorway: We have a long way to go !!
 
 ## Quick links
 
