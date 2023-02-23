@@ -26,11 +26,9 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 
 <figure><img src=".gitbook/assets/historic-and-un-pop-projections-by-age.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/population-by-broad-age-group">https://ourworldindata.org/grapher/population-by-broad-age-group</a></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/vecteezy_children-find-junk-for-sale-and-recycle-them-in-landfills_11903596_605.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
+{% embed url="https://sustainlabs.s3.amazonaws.com/slabs_supply_chain.mp4" %}
+At Sustain Labs we believe that we can contribute greatly to solving sustainable problems, thanks to our commitment, technologies and because it is something that involves all of us globally and generationally.
+{% endembed %}
 
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
 >
