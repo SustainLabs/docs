@@ -10,7 +10,7 @@
 ***
 
 * [Aptos Development](aptos-development/README.md)
-  * [Page 2](aptos-development/page-2.md)
+  * [Contracts](aptos-development/contracts.md)
 
 ## Product Guides
 
