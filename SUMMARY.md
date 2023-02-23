@@ -20,7 +20,9 @@
 * [📎 NFT Marketplace](product-guides/understanding-projects.md)
 * [DeFi](products/defi/README.md)
   * [SustainSwap](products/defi/sustainswap.md)
-  * [📪 Lending](products/defi/lending.md)
+  * [Savings](products/defi/savings.md)
+  * [📪 Lending](product-guides/making-a-post.md)
+  * [Liquidity Pools](products/defi/liquidity-pools.md)
 
 ## Tokenomics
 
