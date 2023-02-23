@@ -17,14 +17,14 @@
 * [Supply Chain](products/supply-chain.md)
 * [Crowdfunding](products/crowdfunding.md)
 * [SustainSwap](products/sustainswap.md)
-* [📪 Lending](products/lending.md)
-* [📎 NFT Marketplace](products/nft-marketplace.md)
+* [📪 Lending](product-guides/making-a-post.md)
+* [📎 NFT Marketplace](product-guides/understanding-projects.md)
 
-## Fundamentals
+## Tokenomics
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Getting set up](tokenomics/getting-set-up/README.md)
+  * [📝 Setting permissions](tokenomics/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](tokenomics/getting-set-up/inviting-members.md)
 
 ## Use Cases
 
