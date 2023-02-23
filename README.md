@@ -7,12 +7,14 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 {% endhint %}
 
 > ## Let's see some graphs
->
-> #### :thinking: Plastics production worldwide
 
-
+* #### &#x20;Plastics production worldwide
 
 <figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
+
+
 
 <figure><img src=".gitbook/assets/GreatPacificGarbagePatch.jpg" alt=""><figcaption></figcaption></figure>
 
