@@ -11,7 +11,7 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 {% hint style="danger" %}
 #### &#x20;Plastics production worldwide
 
-* On the one hand we are changing the use of fossil fuels to renewable energies, sunlight, hydrogen and electricity, but on the other hand the amount of carbon-based waste that we generate unbalances the balance again and as we increase in population we continue to generate carbon waste. exponentially even more.
+* On the one hand we are changing the use of fossil fuels to renewable energies, sunlight, hydrogen and electricity, but on the other hand the amount of carbon-based waste that we generate unbalances the balance again and as we increase in population we continue to generate waste even more exponentially.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
