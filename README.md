@@ -8,17 +8,19 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 
 > ## Let's see some graphs
 
-* #### &#x20;Plastics production worldwide
+{% hint style="danger" %}
+#### &#x20;Plastics production worldwide
+{% endhint %}
 
 <figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/GreatPacificGarbagePatch.jpg" alt=""><figcaption><p>plastic islands</p></figcaption></figure>
 
-*   #### &#x20;World population projected towards 2050
+{% hint style="info" %}
+#### World population projected towards 2050
+{% endhint %}
 
-
-
-    <figure><img src=".gitbook/assets/population-by-broad-age-group.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/population-by-broad-age-group">https://ourworldindata.org/grapher/population-by-broad-age-group</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/historic-and-un-pop-projections-by-age.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/population-by-broad-age-group">https://ourworldindata.org/grapher/population-by-broad-age-group</a></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/vecteezy_children-find-junk-for-sale-and-recycle-them-in-landfills_11903596_605.jpg" alt=""><figcaption></figcaption></figure>
 
