@@ -16,7 +16,7 @@
 ## Products
 
 * [🚛 Supply Chain](products/supply-chain.md)
-* [Crowdfunding](products/crowdfunding.md)
+* [🙇 Crowdfunding](products/crowdfunding.md)
 * [🛒 NFT Marketplace](product-guides/understanding-projects.md)
 * [💸 DeFi](products/defi/README.md)
   * [SustainSwap](products/defi/sustainswap.md)

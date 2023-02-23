@@ -1,4 +1,4 @@
-# 🪙 STN Coin
+# 🛠 Getting set up
 
 <details>
 
