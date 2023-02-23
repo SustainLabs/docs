@@ -30,6 +30,17 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 At Sustain Labs we believe that we can contribute greatly to solving sustainable problems, thanks to our commitment, technologies and because it is something that involves all of us globally and generationally.
 {% endembed %}
 
+{% hint style="warning" %}
+#### World Poverty 1990
+
+* Did you know that between the 80's and 90's countries like South Korea, Chile, Brazil, Mexico, Algeria, were among the poorest in the world. These and some others managed to have exponential growth due to different factors, which opened up opportunities, managing to create world-renowned companies.
+* Education in early stages is a neuralgic point for the development of countries and for the opening of opportunities globally.
+
+
+{% endhint %}
+
+<figure><img src=".gitbook/assets/share-living-with-less-than-550-int--per-day.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/share-living-with-less-than-550-int--per-day?time=1990">https://ourworldindata.org/grapher/share-living-with-less-than-550-int--per-day?time=1990</a></p></figcaption></figure>
+
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
 >
 > — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
