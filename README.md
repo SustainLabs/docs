@@ -12,6 +12,8 @@ Did you know ? Every day that passes, someone is left without the opportunity to
 
 <figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/GreatPacificGarbagePatch.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/cumulative-global-plastics.png" alt=""><figcaption><p>link source: <a href="https://ourworldindata.org/grapher/cumulative-global-plastics">https://ourworldindata.org/grapher/cumulative-global-plastics</a></p></figcaption></figure>
 
 
