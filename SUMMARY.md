@@ -11,6 +11,7 @@
 
 * [Aptos Development](aptos-development/README.md)
   * [Contracts](aptos-development/contracts.md)
+  * [sDAO Voting](aptos-development/sdao-voting.md)
 
 ## Products
 
@@ -22,9 +23,10 @@
 
 ## Tokenomics
 
-* [🛠 STN Coin](tokenomics/stn-coin/README.md)
-  * [📝 Setting permissions](tokenomics/stn-coin/setting-permissions.md)
-  * [🧑 Inviting Members](tokenomics/stn-coin/inviting-members.md)
+* [🛠 STN Coin](fundamentals/getting-set-up/README.md)
+  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [NFTs Cases Boosting](tokenomics/nfts-cases-boosting.md)
 
 ## Use Cases
 
