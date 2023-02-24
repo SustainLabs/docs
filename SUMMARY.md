@@ -6,6 +6,7 @@
 
 * [🌱 What is SLabs ?](introduction/what-is-slabs.md)
 * [🌳 Our Purpose](introduction/our-purpose.md)
+* [🛣 Roadmap](introduction/roadmap.md)
 
 ***
 
