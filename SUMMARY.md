@@ -30,6 +30,9 @@
   * [📝 Governance](tokenomics/stn-coin/governance.md)
   * [🧑 Supply](tokenomics/stn-coin/supply.md)
 * [👨🏫 Fees](tokenomics/fees.md)
+* [💳 Wallet](tokenomics/wallet/README.md)
+  * [Petra Wallet](tokenomics/wallet/petra-wallet.md)
+  * [SLabs Wallet](tokenomics/wallet/slabs-wallet.md)
 
 ## Ambassador Program
 

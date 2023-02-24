@@ -1,0 +1,2 @@
+# SLabs Wallet
+
